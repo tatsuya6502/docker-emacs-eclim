@@ -2,6 +2,8 @@
 
 Enterprise Java development in Emacs running in a Docker container
 
+[![Docker Repository on Quay.io](https://quay.io/repository/tatsuya6502/emacs-eclim/status "Docker Repository on Quay.io")](https://quay.io/repository/tatsuya6502/emacs-eclim)
+
 This container is powered by the following open source software
 products:
 
