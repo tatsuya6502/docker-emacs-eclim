@@ -1,0 +1,2 @@
+#!/bin/sh
+exec Xvfb :1 -screen 0 1024x768x24 -nolisten inet6 >> /var/log/xvfb.log 2>&1

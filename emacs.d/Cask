@@ -1,0 +1,8 @@
+(source gnu)
+(source marmalade)
+(source melpa)
+(depends-on "pallet")
+(depends-on "init-loader")
+;; emacs-eclim
+(depends-on "auto-complete")
+(depends-on "emacs-eclim")
